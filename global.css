@@ -1,0 +1,17 @@
+#cards{
+    display: flex;
+    padding: 100px;
+    justify-content: space-evenly;
+
+}
+
+.video{
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+}
+
+.oak{
+    padding: 2%;
+}
+
